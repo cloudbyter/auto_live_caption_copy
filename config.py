@@ -3,7 +3,7 @@ import json
 import os
 
 # Default: bottom-center area where Windows 11 Live Caption usually appears
-# (relative to primary monitor; updated with real size at runtime if needed)
+# (relative to primary monitor; updated with real size at runtime if needed) 
 DEFAULT_REGION = {
     "left": 100,
     "top": 700,
